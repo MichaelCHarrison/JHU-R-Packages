@@ -1,0 +1,11 @@
+Package: topten
+Type: Package
+Title: Building a Prediction Model from the Top 10 Features
+Version: 1.0
+Author: Michael Harrison
+Maintainer: Michael Harrison <michael.harrison2010@gmail.com>
+Description: Functions for building and predicting from models from selecting the top 10 predictors in a dataset
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
